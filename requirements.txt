@@ -1,0 +1,6 @@
+python-chess
+zstandard
+pandas
+tqdm
+requests
+berserk

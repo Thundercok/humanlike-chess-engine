@@ -1,0 +1,22 @@
+# Python Ignore
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+instance/
+.webassets-cache
+.pytest_cache/
+.mypy_cache/
+
+# Chess Data/Results
+data/
+*.pgn
+*.pgn.zst
+*.jsonl
+
+# OS files
+.DS_Store
+Thumbs.db
